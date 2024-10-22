@@ -1,4 +1,4 @@
-### messagingapptempname
+### messgr
 # - Messaging App Project for Digi Class -
 
 - Assigned to make a messaging app for digi (dili - digital literacy) class. 
