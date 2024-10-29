@@ -4,6 +4,6 @@
 - Assigned to make a messaging app for digi (dili - digital literacy) class. 
 
 - This repo is for all the code and assets.
-# requires keyboard library (pip [or pipx] install keyboard)
+# requires keyboard and pillow library
 
 ### :P
