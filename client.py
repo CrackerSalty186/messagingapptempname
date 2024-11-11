@@ -6,8 +6,9 @@ from tkinter import ttk
 from PIL import Image, ImageTk
 import io
 
-HOST = '127.0.0.1'
-PORT = 12345        
+# Server setup
+HOST = 'localhost'  
+PORT = 12345          
 
 class ChatClient:
     def __init__(self, root):

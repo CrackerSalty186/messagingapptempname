@@ -2,7 +2,7 @@ import socket
 import threading
 
 # Server setup
-HOST = '127.0.0.1'  
+HOST = 'localhost'  
 PORT = 12345        
 
 clients = {}
